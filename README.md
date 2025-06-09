@@ -21,3 +21,7 @@ g++ fasta_search_and_scrub.cpp -o faster_fasta_extract
 
 Target NC_045512.2:
 ATTAAAGGTTTATACCTTCCCAGGTAACAA....
+
+## Value
+
+Very helpful in returning a clean sequence by ID perhaps in larger fasta with many sequences.
