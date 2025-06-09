@@ -4,10 +4,10 @@ This C++ program reads a FASTA-formatted file, cleans the sequences by removing 
 
 ## Features
 
--FASTA Parsing: Reads and correctly interprets standard FASTA files.
--Sequence Cleaning: Removes all newline and whitespace characters within sequences, concatenating them into a single continuous string.
--Targeted Extraction: Allows you to specify a FASTA ID, and the program will return only the sequence associated with that specific ID.
--Error Handling: Includes basic error handling for file opening issues and incorrect command-line usage.
+- FASTA Parsing: Reads and correctly interprets standard FASTA files.
+- Sequence Cleaning: Removes all newline and whitespace characters within sequences, concatenating them into a single continuous string.
+- Targeted Extraction: Allows you to specify a FASTA ID, and the program will return only the sequence associated with that specific ID.
+- Error Handling: Includes basic error handling for file opening issues and incorrect command-line usage.
 
 ## Build and Run
 
