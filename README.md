@@ -11,11 +11,11 @@ Error Handling: Includes basic error handling for file opening issues and incorr
 
 ## Build and Run
 
-
+```
 g++ fasta_search_and_scrub.cpp -o faster_fasta_extract
 
 ./faster_fasta_extract NC_045512.2.fasta NC_045512.2
-
+```
 
 ## Output
 
